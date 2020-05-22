@@ -7,3 +7,11 @@
 #
 layout: home
 ---
+
+
+## Welcome
+
+I summarize economics papers in a “one-page” format. 
+
+My objective is to practice my written communication and allow economic enthusiast to understand the latest research in the field.
+  
