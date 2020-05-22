@@ -8,10 +8,8 @@
 layout: home
 ---
 
-I summarize economics papers in a “one-page” format. 
+We summarize economics papers in a “one-page” format. 
 
-My objective is to practice my written communication and allow economic enthusiast to understand the latest research in the field.
-
-Next up : 
+Next up: 
 * [Is Equality Stable?](https://debrajray.com/wp-content/uploads/2017/12/MRAerPP.pdf)
   

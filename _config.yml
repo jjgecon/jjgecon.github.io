@@ -3,7 +3,7 @@ author:
   name: 
   email: onepageecon@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Working on it.
+  We summarize economics papers in a “one-page” format. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
