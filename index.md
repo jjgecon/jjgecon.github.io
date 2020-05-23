@@ -13,5 +13,5 @@ We summarize economics papers in a “one-page” format.
 Next up: 
 * [Is Equality Stable?](https://debrajray.com/wp-content/uploads/2017/12/MRAerPP.pdf)
 
-### Previous One-page Econs
+### **Previous One-page Econs**
   

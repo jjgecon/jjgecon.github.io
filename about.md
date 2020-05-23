@@ -8,5 +8,7 @@ permalink: /about/
 
 #### Javier Gonzalez [CV](https://jjgecon.github.io/files/JCv.pdf)
 
-Economics M.A. Student. Currently researching the macroeconomic impact of entrepreneurial gender gaps. 
+Economics M.A. Student. 
+
+Currently researching the macroeconomic impact of entrepreneurial gender gaps. 
 
