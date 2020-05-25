@@ -4,7 +4,7 @@ title: "(#3) Anomalies the Endowment Effect, Loss Aversion, and Status-Quo Bias"
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/3.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/3.pdf)
 
 Classical economics assumes that agents behave rationally. Rationally implies that people behave as if they know the best possible answer to each decision problem. The field of behavior economics lift this assumption and tries to understand how people behave when they are not rational. Humans behave rationally on some occasion, while emotionally on others. Think all those times you regret buying something. If you were rational, that purchase should’ve been best possible one. 
 

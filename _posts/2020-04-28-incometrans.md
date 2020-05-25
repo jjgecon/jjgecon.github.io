@@ -4,7 +4,7 @@ title: "(#21) The Effects of Income Transparency on Well-Being Evidence from a N
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/21.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/21.pdf)
 
 In the last century transparency policies have been implemented to increase government trust and social trust. Some examples are disclosing public officials’ assets, wages and lobby related activities. Tax records have been disclosed to the public as a transparency policy. Norway made the tax records of every citizen public, although not easily available, in the nineteenth century. In 2001, a newspaper created an online tool which allowed most of the population to search anyone’s tax records. This tool displayed full names, net incomes, birth years, among other information. Although this policy’s objective was to increase social trust, it had an unintended effect on well-being inequality.
 

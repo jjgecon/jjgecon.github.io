@@ -4,7 +4,7 @@ title: "(#4) Replication studies in economics — How many and which papers are 
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/4.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/4.pdf)
 
 Academic research can be composed of readers, journals, researchers and peer reviewers. A researcher’s job is to provide studies in the form of articles. Journals provide readers with immaculate novel research. Peer reviewers ensure that submitted papers are worthy of being published. The chain ends with readers learning new ideas from the knowledge frontier.  As a market, incentives play an important role on the product, which are research articles. In this framework, replication studies – those that try replicate a result of a previous paper – have ambiguous appeal to readers and journals. Replication papers can provide a new idea if it contradicts existing knowledge. Those who arrive at the same conclusion, are not likely to be published on academic journals.
 Replication is at the heart of the scientific method (Popper, 1959). As pursuers of truth, one experiment or data set could be a statistical anomaly which can give a false positive - finding a statistical effect when there is none. One way to find false positives is for other researchers to do the same work and arrive at the same conclusion. Interestingly, only 130 of 1243 (0.1%) of published papers are replication studies (in the top 50 journals from 1994 to 2014).

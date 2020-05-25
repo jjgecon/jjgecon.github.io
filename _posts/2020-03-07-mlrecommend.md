@@ -4,7 +4,7 @@ title: "(#18) Making sense of recommendations"
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/18.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/18.pdf)
 
 Netflix uses machine learning models to recommend movies and series to its clients. On 2009 Netflix hosted a competition to increase the accuracy (how well does it recommend) of their recommended system with $1 million prize . Before improving the model, one could ask: Do people like recommendations coming from machines or from other people?
 

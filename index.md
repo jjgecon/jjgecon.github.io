@@ -8,10 +8,9 @@
 layout: home
 ---
 
-We summarize economics papers in a “one-page” format. 
+We summarize economics papers in a “one-page” format.
 
-Next up: 
-* [Is Equality Stable?](https://debrajray.com/wp-content/uploads/2017/12/MRAerPP.pdf)
+Next One-page Econ: [Is Equality Stable?](https://debrajray.com/wp-content/uploads/2017/12/MRAerPP.pdf)
 
 ## Previous One-page Econs
   

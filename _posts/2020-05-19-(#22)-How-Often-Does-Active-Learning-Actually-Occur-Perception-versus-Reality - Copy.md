@@ -4,7 +4,7 @@ title: "(#22) How Often Does Active Learning Actually Occur? Perception versus R
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/22.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/22.pdf)
 
 A typical education curriculum relies on teacher lectures as the main learning mechanism. Students show up to lectures and listen to the teacher. Learning literature defines this approach as a passive method. In contrast, active methods involve students in their learning. For example, asking students to briefly summarize the topic at the start of the class. Freeman et al., (2014) showed that students perform better in exams when the instructor predominantly used active teaching methods.
 

@@ -4,7 +4,7 @@ title: "(#11) Sticking to Your Plan Hyperbolic Discounting and Credit Card Debt 
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/11.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/11.pdf)
 
 Credit cards are used to purchase goods even if there is no money available at the moment. Their ease of use it can incentivize present consumption and short-term debt. In the U.S., a median household is paying 140$ monthly only on interest payments. A service called “ReadyForZero” can help people to create a plan to completely pay their debts. Interestingly, most users fail to meet their own expectations and plan.
 

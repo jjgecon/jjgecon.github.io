@@ -4,7 +4,7 @@ title: "(#2) Some Consequences of Having Too Little"
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/2.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/2.pdf)
 
 Gambling, excessive borrowing and insufficient savings are behaviors associated with poverty status. Surprisingly, busy people also share these behaviors. The connection is simple. Both have little of one resource, the former lacks money while the latter lack time. Scarcity seems to be a culprit.
 

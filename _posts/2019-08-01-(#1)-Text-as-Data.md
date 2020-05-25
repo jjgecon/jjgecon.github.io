@@ -4,7 +4,7 @@ title: "(#1) Text as Data"
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/1.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/1.pdf)
 
 Computers can identify emails as spam or predict whether a comment is negative or positive. Both aim to predict an outcome – if an email is spam or not for the first example – using text as data.
 

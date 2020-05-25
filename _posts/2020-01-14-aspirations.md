@@ -4,7 +4,7 @@ title: "(#15) Aspirations: A Review"
 categories: misc
 ---
 
-You can download the pdf file [here](https://jjgecon.github.io/files/opecon_pdfs/15.pdf).
+[pdf version](https://jjgecon.github.io/files/opecon_pdfs/15.pdf)
 
 The phrase “the grass is always greener on the other side” depicts how humans constantly compare themselves to others. A strand of research explains this phenomenon with the concept of aspirations. Setting high aspirations, like having the best garden, will lead to frustration as someone else will be better. Setting a low aspirations could lead to satisfaction, because there is someone who is worse. Even though social comparisons and aspirations sound intuitively in human behavior, classical economics has yet to take them into consideration.
 
