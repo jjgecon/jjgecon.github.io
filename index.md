@@ -10,7 +10,8 @@ layout: home
 
 We summarize economics papers in a “one-page” format.
 
-Next One-page Econ: Gender Homophily in Referral Networks: Consequences for the Medicare Physician Earnings Gap by Dan Zeltzer
+Next One-page Econ: 
+- Gender Homophily in Referral Networks: Consequences for the Medicare Physician Earnings Gap by Dan Zeltzer
 
 ## Previous One-page Econs
   
