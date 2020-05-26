@@ -10,5 +10,5 @@ permalink: /about/
 
 Economics M.A. Student. 
 
-Currently researching the macroeconomic impact of entrepreneurial gender gaps. 
+Current researching the macroeconomic impact of entrepreneurial gender gaps as a master thesis. 
 
