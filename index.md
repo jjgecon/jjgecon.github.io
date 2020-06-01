@@ -11,7 +11,7 @@ layout: home
 We summarize economics papers in a “one-page” format.
 
 Next One-page Econ: 
-- Gender Homophily in Referral Networks: Consequences for the Medicare Physician Earnings Gap by Dan Zeltzer
+- [What Students Learn in Economics 101: Time for a Change](https://www.aeaweb.org/articles?id=10.1257/jel.20191585) 
 
 ## Previous One-page Econs
   
