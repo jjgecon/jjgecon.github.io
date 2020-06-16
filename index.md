@@ -11,7 +11,7 @@ layout: home
 We summarize economics papers in a “one-page” format.
 
 Next One-page Econ: 
-- [What Students Learn in Economics 101: Time for a Change](https://www.aeaweb.org/articles?id=10.1257/jel.20191585) 
+- [Conflict and Development](https://debrajray.com/wp-content/uploads/2017/12/EstebanRayAnnReviews.pdf) 
 
 ## Previous One-page Econs
   
