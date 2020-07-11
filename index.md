@@ -11,7 +11,7 @@ layout: home
 We summarize economics papers in a “one-page” format.
 
 Next One-page Econ: 
-- [Conflict and Development](https://debrajray.com/wp-content/uploads/2017/12/EstebanRayAnnReviews.pdf) 
+- [The Power of Bias in Economics Research](https://ideas.repec.org/a/wly/econjl/v127y2017i605pf236-f265.html) 
 
 ## Previous One-page Econs
   
