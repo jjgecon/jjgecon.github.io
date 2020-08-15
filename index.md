@@ -8,9 +8,9 @@ I'm an Economist from Chile applying for PhD programs this 2020 cycle.
 
 My research interests are: *Inequality, Behavioral Economics, Macro-Behavioral Models,* and *Gender Economics*.
 
-# Working Papers
+# Work in Progress
 
-* *Aggregate Costs of Women Misallocation of Talent* (with Francisco Parro) — *Coming Soon*
+* **Aggregate Costs of Women Misallocation of Talent** (with Francisco Parro) — *Draft coming soon*
 
 # [One-page Econ](./one-pageecon.html)
 
