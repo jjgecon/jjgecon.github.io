@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #ebdccf;
+  background-color: #fcf8e8;
   padding:50px;
   font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#292929;
@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#147904;
+  color:#689764;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#093f01;
+  color:#3f5e3c;
   text-decoration:none;
 }
 
@@ -115,16 +115,16 @@ ul.downloads {
   list-style:none;
   height:40px;
   padding:0;
-  background: #147904;
+  background: #f7efc8;
   border-radius:5px;
-  border:1px solid #000000;
+  border:1px solid #689764;
   width:270px;
 }
 
 .downloads li {
   width:89px;
   float:left;
-  border-right:1px solid #000000;
+  border-right:1px solid #689764;
   height:40px;
 }
 
