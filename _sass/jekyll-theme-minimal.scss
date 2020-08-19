@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #ebecf1;
+  background-color: #ffffff;
   padding:50px;
   font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#1b1c25;
@@ -61,7 +61,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:1px solid #ffffff;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -76,7 +76,7 @@ pre {
   padding:8px 15px;
   background: #f8f8f8;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #ffffff;
   overflow-x: auto;
 }
 
@@ -88,7 +88,7 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #ffffff;
 }
 
 dt {
