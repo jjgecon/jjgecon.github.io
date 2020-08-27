@@ -14,7 +14,7 @@ My research interests are: *Inequality, Behavioral Economics, Macro-Behavioral M
 
 # [One-page Econ](./one-pageecon.html)
 
-Where I summarize economic papers in a "one-page" format. 
+Where I summarize economic papers in a "one-page" format to improve my written English while keeping up with current research.
 
 * Latest One-page Econ: [Conflict and Development (#26)](https://jjgecon.github.io/assets/ope_pdf/Conflict%20and%20Development%20(Ray%202017).pdf)
 
