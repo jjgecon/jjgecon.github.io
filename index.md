@@ -10,7 +10,7 @@ My research interests are: *Inequality, Behavioral Economics, Macro-Behavioral M
 
 # Work in Progress
 
-* *Aggregate Costs of Women Misallocation of Talent* with Francisco Parro [Draft coming soon]
+* *Aggregate Costs of Women Discrimination Misallocation of Talent* with Francisco Parro [Draft coming soon]
 
 # [One-page Econ](./one-pageecon.html)
 
