@@ -8,7 +8,7 @@ layout: default
 
 All sumaries are available in a PDF format.
 
-Next One-page Econ: [The Power of Bias in Economics Research](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12461)
+Next One-page Econ: [Children and Gender Inequality: Evidence from Denmark](https://www.aeaweb.org/articles?id=10.1257/app.20180010)
 
 ## Latest
 
