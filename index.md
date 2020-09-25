@@ -15,7 +15,7 @@ Market* with Francisco Parro [Draft coming soon]
 
 # [One-page Econ](./one-pageecon.html)
 
-Where I summarize economic papers in a "one-page" format to improve my written English while keeping up with current research.
+Where I summarize economic papers in a "one-page" format.
 
 * Latest One-page Econ: [Conflict and Development (#26)](https://jjgecon.github.io/assets/ope_pdf/Conflict%20and%20Development%20(Ray%202017).pdf)
 
