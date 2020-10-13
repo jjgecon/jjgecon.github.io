@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-I'm an Economist from Chile applying for PhD programs this 2020 cycle.
+I'm an Economist from Chile applying for PhD programs starting Fall 2021.
 
 My research interests are: *Inequality, Behavioral Economics, Macro-Behavioral Models,* and *Gender Economics*.
 
