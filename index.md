@@ -6,7 +6,7 @@ layout: default
 
 I'm an Economist from Chile applying for PhD programs starting Fall 2021.
 
-My research interests are: *Inequality, Behavioral Economics, Gender Economics,* and *Structural Econometrics*.
+My research interests are: *Inequality, Behavioral Economics,* and *Gender Economics*.
 
 # Work in Progress
 
