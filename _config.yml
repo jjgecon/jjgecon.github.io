@@ -3,4 +3,5 @@ logo: /assets/img/Logo.png
 description:
 show_downloads: true
 google_analytics:
+classes: wide
 theme: jekyll-theme-minimal
