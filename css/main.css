@@ -41,13 +41,13 @@ h1, h2, h3, h4, h5, h6 {
   color: black;
   font-weight: 500;
 }
-
+/*
 h1 {
   margin-bottom: 4rem;
 }
-
+*/
 h2, h3 {
-  margin: 0 0 2rem !important;
+  /*margin: 0 0 2rem !important;*/
   /*color: slategray;*/
   color: black;
 }
@@ -69,7 +69,8 @@ h4, h5, h6 {
 
 #projects .panel-heading h5 {
   font-weight: 500;
-  color: darkslategray !important;
+  /*color: darkslategray !important; */
+  color: black !important;
 }
 
 p, table, tr, td, ul, li, blockquote, nav, a, footer, dl, dt, dd {
@@ -136,7 +137,8 @@ blockquote footer {
 
 /* Contact info area, index.html page ------------------------------------------------- */
 #title {
-  color: #20364c;
+  /*color: #20364c;*/
+  color: black;
   margin-top: 2rem;
   font-weight: 600;
   font-size: 1.4rem;
@@ -160,8 +162,7 @@ nav {
 }
 
 .navbar-default .navbar-nav>li>a {
-  /*color: #20364c*/
-  color: black;
+  color: #20364c;
   font-weight: 500;
 }
 
