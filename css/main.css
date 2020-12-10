@@ -41,13 +41,13 @@ h1, h2, h3, h4, h5, h6 {
   color: black;
   font-weight: 500;
 }
-/*
+
 h1 {
   margin-bottom: 4rem;
 }
-*/
+
 h2, h3 {
-  /*margin: 0 0 2rem !important;*/
+  margin: 0 0 2rem !important;
   /*color: slategray;*/
   color: black;
 }
