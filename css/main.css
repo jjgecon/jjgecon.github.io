@@ -69,7 +69,8 @@ h4, h5, h6 {
 
 #projects .panel-heading h5 {
   font-weight: 500;
-  color: darkslategray !important;
+  /*color: darkslategray !important;*/
+  color: #20364c !important;
 }
 
 p, table, tr, td, ul, li, blockquote, nav, a, footer, dl, dt, dd {
@@ -145,7 +146,7 @@ blockquote footer {
 }
 
 #program {
-  color: gray;
+  color: #20364c;
   text-align: center;
 }
 
