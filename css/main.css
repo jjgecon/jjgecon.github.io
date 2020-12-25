@@ -11,8 +11,11 @@ body {
 }
 
 #badge-more {
+  /*
   background-color: #1585cf;
   color: white;
+  */
+  color: black;
   cursor: pointer;
 }
 
