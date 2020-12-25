@@ -41,10 +41,10 @@ $(document).ready(function() {
         $("#read-more").fadeToggle("fast");
 
         // Change the button
-        if ($("#badge-more").text() == "more") {
+        if ($("#badge-more").text() == "Abstract") {
            $("#badge-more").text("less");
         } else {
-           $("#badge-more").text("more");
+           $("#badge-more").text("Abstract");
         }
 
      });
