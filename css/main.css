@@ -384,14 +384,14 @@ footer {
 }
 
 #projects .panel-footer {
-  text-align: left;
+  text-align: center;
   background: #F6F7FB;
-  font-size: 1.5rem;
   padding: 1rem;
+  border-top: none;
 }
 
-#projects .panel-footer {
-  border-top: none;
+#projects .panel-footer p{
+  font-size: 1.5rem;
 }
 
 #projects .panel-heading h5 {
