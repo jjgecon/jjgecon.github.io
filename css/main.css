@@ -134,7 +134,7 @@ blockquote footer {
 
 #main-container a:hover {
   color: #1585cf;
-  border-bottom: 1px dashed #1585cf;
+  border-bottom: 1px #1585cf;
   text-decoration: none;
   padding-bottom: 2px;
 }
