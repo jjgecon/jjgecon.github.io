@@ -366,15 +366,11 @@ footer {
 
 /* Projects page --------------------------------------------------------- */
 #projects .panel {
-  margin-left: 2rem;
+  margin-left: 1rem;
 }
 
 #projects .panel-default {
-  border-radius: 3px;
-}
-
-#projects .panel-default {
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 #projects .panel-heading {
