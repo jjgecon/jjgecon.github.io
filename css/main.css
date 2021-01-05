@@ -176,13 +176,13 @@ nav {
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
-  background: white !important;
-  border-radius: 1px;
-  color: #20364c !important;
+  background: #20364c !important;
+  /*border-radius: 1px;
+  color: #20364c !important;*/
 }
 
 .navbar-default .navbar-nav>li>a:active {
-  background: white !important;
+  background: #20364c !important;
 }
 
 @media only screen and (min-width: 768px) {
