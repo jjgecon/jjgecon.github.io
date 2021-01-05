@@ -166,7 +166,7 @@ nav {
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: white;
+  color: #20364c;
   font-weight: 500;
 }
 
@@ -176,13 +176,13 @@ nav {
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
-  background: #20364c !important;
-  /*border-radius: 1px;
-  color: #20364c !important;*/
+  background: white !important;
+  border-radius: 1px;
+  color: #20364c !important;
 }
 
 .navbar-default .navbar-nav>li>a:active {
-  background: #20364c !important;
+  background: white !important;
 }
 
 @media only screen and (min-width: 768px) {
@@ -233,14 +233,13 @@ nav {
 }
 
 .navbar-inverse {
-  /*background: #20364c;*/
-  background: white;
+  background: #20364c;
 }
 
 .navbar-brand {
   font-size: 2.15rem !important;
   font-weight: 500;
-  color: #20364c !important;
+  color: white !important;
 }
 
 /* Navbar link size */
