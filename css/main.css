@@ -233,13 +233,14 @@ nav {
 }
 
 .navbar-inverse {
-  background: #20364c;
+  /*background: #20364c;*/
+  background: white;
 }
 
 .navbar-brand {
   font-size: 2.15rem !important;
   font-weight: 500;
-  color: white !important;
+  color: #20364c !important;
 }
 
 /* Navbar link size */
