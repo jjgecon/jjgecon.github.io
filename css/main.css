@@ -377,10 +377,16 @@ footer {
   border-bottom: none;
 }
 
-#projects .panel-heading,
-#projects .panel-footer {
+#projects .panel-heading {
   text-align: center;
   background: #F6F7FB;
+  padding: 1rem;
+}
+
+#projects .panel-footer {
+  text-align: left;
+  background: #F6F7FB;
+  font-size: 1.5rem;
   padding: 1rem;
 }
 
