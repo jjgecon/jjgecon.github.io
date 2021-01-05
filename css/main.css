@@ -388,11 +388,15 @@ footer {
   border-top: none;
 }
 
+#projects .panel-body {
+  text-align: center;
+}
+
 #projects .panel-heading h5 {
   color: black;
   font-style: normal;
   font-weight: 500;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .panel-default .panel-heading a:hover {
