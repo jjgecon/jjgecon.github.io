@@ -176,9 +176,9 @@ nav {
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
-  background: white !important;
+  background: green !important;
   border-radius: 1px;
-  color: white !important;
+  color: #20364c !important;
 }
 
 .navbar-default .navbar-nav>li>a:active {
