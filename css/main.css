@@ -5,17 +5,8 @@ body {
   background: #FFFFFF;
 }
 
-/* Colors */
-.dark-blue {
-  color: #20364c !important;
-}
-
 #badge-more {
-  /*
-  background-color: #1585cf;
-  color: white;
-  */
-  background-color: #1585cf;
+  background-color: #cf0015;
   color: black;
   cursor: pointer;
 }
@@ -68,7 +59,7 @@ h4, h5, h6 {
 .panel-heading h5 {
   font-style: italic;
   font-weight: 500;
-  color: #1585cf !important;
+  color: #cf0015 !important;
 }
 
 #projects .panel-heading h5 {
@@ -128,13 +119,13 @@ blockquote footer {
 
 /* Links */
 #main-container a {
-  color: #1585cf;
-  font-weight: 500;
+  color: #cf0015;
+  font-weight: 00;
 }
 
 #main-container a:hover {
-  color: #1585cf;
-  border-bottom: 1px solid #1585cf;
+  color: #cf0015;
+  border-bottom: 1px solid #cf0015;
   text-decoration: none;
   padding-bottom: 1px;
 }
@@ -314,7 +305,7 @@ nav {
 #link-to-docs:active,
 #link-to-docs:visited,
 #link-to-docs:focus {
-  border: 1px solid #1585cf !important;
+  border: 1px solid #cf0015 !important;
   padding-bottom: 6px !important;
   background: transparent !important;
 }
@@ -357,7 +348,7 @@ footer {
 }
 
 .social-icons li a {
-  color: #1585cf;
+  color: #cf0015;
 }
 
 .social-icons li a:hover {
@@ -380,13 +371,13 @@ footer {
 
 #projects .panel-heading {
   text-align: center;
-  background: #F6F7FB;
+  background: #edeae6;
   padding: 1rem;
 }
 
 #projects .panel-footer {
   text-align: center;
-  background: #F6F7FB;
+  background: #edeae6;
   padding: 1rem;
   border-top: none;
 }
@@ -503,8 +494,8 @@ dd {
   z-index: 99;
   border: none;
   outline: none;
-  background-color: #1585cf;
-  color: white;
+  background-color: white;
+  color: black;
   padding: 12px 6px 12px 6px;
   border-radius: 4px 0 0 4px;
   cursor: pointer;
@@ -512,6 +503,6 @@ dd {
 }
 
 #topper:hover {
-  background-color: #1585cf;
+  background-color: white;
   opacity: .8;
 }
