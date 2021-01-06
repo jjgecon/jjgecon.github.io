@@ -222,12 +222,6 @@ nav {
   }
 }
 
-@media (max-width: 767px) {
-  .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
-    color: darkslategray !important;
-  }
-}
-
 .navbar-inverse {
   background: white;
   border-color: white;
