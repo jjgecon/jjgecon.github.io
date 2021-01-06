@@ -1,3 +1,9 @@
+/*
+#ffffff
+#edeae6
+#c5a173
+#181c16
+#cf0015 */
 /* Global page and element settings ----------------------------------------------------- */
 body {
   font-size: 16px;
@@ -44,7 +50,7 @@ h1 {
 h2, h3 {
   margin: 0 0 2rem !important;
   /*color: slategray;*/
-  color: lack;
+  color: black;
 }
 
 h4 {
@@ -64,7 +70,6 @@ h4, h5, h6 {
 
 #projects .panel-heading h5 {
   font-weight: 500;
-  /*color: darkslategray !important;*/
   color: black !important;
 }
 
@@ -79,8 +84,8 @@ dt {
 }
 
 blockquote {
-  border-left-color: slategray;
-  color: slategray;
+  border-left-color: #edeae6;
+  color: #edeae6;
 }
 
 blockquote blockquote {
@@ -147,7 +152,7 @@ blockquote footer {
 
 iframe {
   padding: 3px;
-  border: 1px solid lightgray;
+  border: 1px solid #edeae6;
 }
 
 /* Format the nav  ---------------------------------------------------------- */
@@ -178,9 +183,9 @@ nav {
 @media only screen and (min-width: 768px) {
   .navbar-default .navbar-nav>.open>a {
     background: white !important;
-    border-right: 1px solid lightgray;
-    border-top: 1px solid lightgray;
-    border-left: 1px solid lightgray;
+    border-right: 1px solid #edeae6;
+    border-top: 1px solid #edeae6;
+    border-left: 1px solid #edeae6;
   }
 
   /* hover effects */
@@ -310,27 +315,6 @@ nav {
   background: transparent !important;
 }
 
-/* Setting Lines after headers 
-h3 {
-  position: relative;
-}
-
-h3 span {
-  background-color: white;
-  padding-right: 10px;
-}
-
-h3:after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 0.5em;
-  border-top: 2px solid #20364c;
-  z-index: -1;
-}
-*/
 
 /* Format the footer ---------------------------------------------------------- */
 footer {
@@ -365,11 +349,12 @@ footer {
   border-radius: 0px;
 }
 
-#projects .panel-heading {
-  border-bottom: none;
+#projects .panel-body {
+  background: #edeae6;
 }
 
 #projects .panel-heading {
+  border-bottom: none;
   text-align: center;
   background: #edeae6;
   padding: 1rem;
@@ -414,7 +399,7 @@ footer {
   margin-bottom: 2rem;
   width: 100px;
   padding: 3px;
-  border: 1px solid silver;
+  border: 1px solid #edeae6;
 }
 
 /* Lists ------------------------------------------------------------- */
@@ -452,12 +437,12 @@ dd {
   font-weight: 900;
   content: "\f068";
   float: right;
-  color: silver;
+  color: #edeae6;
 }
 
 .panel-heading .accordion-plus-toggle.collapsed:before {
   content: "\f067";
-  color: silver;
+  color: #edeae6;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
 }
@@ -468,14 +453,14 @@ dd {
   font-weight: 900;
   content: "\f078";
   float: right;
-  color: silver;
+  color: #edeae6;
 }
 
 .panel-heading .accordion-arrow-toggle.collapsed:before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f054";
-  color: silver;
+  color: #edeae6;
 }
 
 /* sets the link to the width of the entire panel title */
