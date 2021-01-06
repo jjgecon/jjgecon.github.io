@@ -122,6 +122,13 @@ blockquote footer {
   ;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Links */
 #main-container a {
   color: #cf0015;
