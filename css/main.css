@@ -74,7 +74,7 @@ h4, h5, h6 {
 #projects .panel-heading h5 {
   font-weight: 500;
   /*color: darkslategray !important;*/
-  color: #034488 !important;
+  color: black !important;
 }
 
 p, table, tr, td, ul, li, blockquote, nav, a, footer, dl, dt, dd {
@@ -150,7 +150,7 @@ blockquote footer {
 }
 
 #program {
-  color: #034488;
+  color: black;
   text-align: center;
 }
 
@@ -166,7 +166,7 @@ nav {
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #034488;
+  color: black;
   font-weight: 500;
 }
 
@@ -177,7 +177,7 @@ nav {
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
   font-weight: 900;
-  color: #034488 !important;
+  color: black !important;
 }
 
 .navbar-default .navbar-nav>li>a:active {
@@ -238,7 +238,7 @@ nav {
 .navbar-brand {
   font-size: 2.15rem !important;
   font-weight: 500;
-  color: #034488 !important;
+  color: black !important;
 }
 
 /* Navbar link size */
@@ -247,7 +247,7 @@ nav {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-  color: #034488;
+  color: black;
 }
 
 .navbar {
