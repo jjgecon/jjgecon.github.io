@@ -176,10 +176,6 @@ nav {
   color: black !important;
 }
 
-.navbar-inverse {
-  border-color: white;
-}
-
 .navbar-default .navbar-nav>li>a:active {
   background: white !important;
 }
@@ -234,6 +230,7 @@ nav {
 
 .navbar-inverse {
   background: white;
+  border-color: white;
 }
 
 .navbar-brand {
@@ -253,6 +250,8 @@ nav {
 
 .navbar {
   border-radius: 0;
+  border: 0px;
+  border-color: white;
 }
 
 .active {
