@@ -51,9 +51,9 @@ h1 {
 }
 
 h2, h3 {
-  /*margin: 0 0 2rem !important;*/
+  margin: 0 0 2rem !important;
   /*color: slategray;*/
-  color: #20364c;
+  color: lack;
 }
 
 h4 {
@@ -62,7 +62,7 @@ h4 {
 
 h4, h5, h6 {
   /*color: slategray !important;*/
-  color: #20364c !important;
+  color: lack !important;
 }
 
 .panel-heading h5 {
@@ -74,7 +74,7 @@ h4, h5, h6 {
 #projects .panel-heading h5 {
   font-weight: 500;
   /*color: darkslategray !important;*/
-  color: #20364c !important;
+  color: #034488 !important;
 }
 
 p, table, tr, td, ul, li, blockquote, nav, a, footer, dl, dt, dd {
@@ -150,7 +150,7 @@ blockquote footer {
 }
 
 #program {
-  color: #20364c;
+  color: #034488;
   text-align: center;
 }
 
@@ -166,7 +166,7 @@ nav {
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #20364c;
+  color: #034488;
   font-weight: 500;
 }
 
@@ -178,7 +178,7 @@ nav {
 .navbar-inverse .navbar-nav>li>a:focus {
   background: white !important;
   border-radius: 1px;
-  color: #20364c !important;
+  color: #034488 !important;
 }
 
 .navbar-default .navbar-nav>li>a:active {
@@ -239,7 +239,7 @@ nav {
 .navbar-brand {
   font-size: 2.15rem !important;
   font-weight: 500;
-  color: #20364c !important;
+  color: #034488 !important;
 }
 
 /* Navbar link size */
@@ -248,7 +248,7 @@ nav {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-  color: #20364c;
+  color: #034488;
 }
 
 .navbar {
@@ -319,7 +319,7 @@ nav {
   background: transparent !important;
 }
 
-/* Setting Lines after headers */
+/* Setting Lines after headers 
 h3 {
   position: relative;
 }
@@ -339,6 +339,7 @@ h3:after {
   border-top: 2px solid #20364c;
   z-index: -1;
 }
+*/
 
 /* Format the footer ---------------------------------------------------------- */
 footer {
