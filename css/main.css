@@ -211,8 +211,9 @@ nav {
     transition-property: transform;
     left: calc(50% - 10px);
     bottom: 0;
+    /*
     border-width: 10px 10px 0 10px;
-    border-color: white transparent transparent transparent;
+    border-color: white transparent transparent transparent;*/
   }
 
   .hvr-bubble-bottom:hover:before, .hvr-bubble-bottom:focus:before, .hvr-bubble-bottom:active:before {
@@ -245,14 +246,14 @@ nav {
 .navbar-inverse .navbar-nav>li>a {
   color: black;
 }
-/*
+
 .navbar {
   border-radius: 0;
 }
-*/
+
 .active {
   background: white; 
-   border-radius: 2px;
+  /* border-radius: 2px;*/
 }
 /* 
 .navbar .dropdown-menu {
