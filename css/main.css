@@ -176,8 +176,7 @@ nav {
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
-  background: white !important;
-  border-radius: 1px;
+  font-weight: 900;
   color: #034488 !important;
 }
 
