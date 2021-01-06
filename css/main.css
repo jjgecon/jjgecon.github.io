@@ -176,6 +176,10 @@ nav {
   color: black !important;
 }
 
+.navbar-inverse {
+  border-color: white;
+}
+
 .navbar-default .navbar-nav>li>a:active {
   background: white !important;
 }
