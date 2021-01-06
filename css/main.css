@@ -176,7 +176,7 @@ nav {
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
-  background: green !important;
+  background: white !important;
   border-radius: 1px;
   color: #20364c !important;
 }
@@ -233,13 +233,13 @@ nav {
 }
 
 .navbar-inverse {
-  background: #20364c;
+  background: white;
 }
 
 .navbar-brand {
   font-size: 2.15rem !important;
   font-weight: 500;
-  color: white !important;
+  color: #20364c !important;
 }
 
 /* Navbar link size */
@@ -248,7 +248,7 @@ nav {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-  color: white;
+  color: #20364c;
 }
 
 .navbar {
