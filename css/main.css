@@ -192,7 +192,7 @@ nav {
 .navbar-default .navbar-nav>li>a:active {
   background: white !important;
 }
-
+/*
 @media only screen and (min-width: 768px) {
   .navbar-default .navbar-nav>.open>a {
     background: white !important;
@@ -201,8 +201,6 @@ nav {
     border-left: 1px solid #f8f8f6;
   }
 
-  /* hover effects */
-  /* Bubble Bottom */
   .hvr-bubble-bottom {
     display: inline-block;
     vertical-align: bottom;
@@ -224,20 +222,17 @@ nav {
     transition-property: transform;
     left: calc(50% - 10px);
     bottom: 0;
-    /*
-    border-width: 10px 10px 0 10px;
-    border-color: white transparent transparent transparent;*/
   }
-
   .hvr-bubble-bottom:hover:before, .hvr-bubble-bottom:focus:before, .hvr-bubble-bottom:active:before {
     -webkit-transform: translateY(10px);
     transform: translateY(10px);
   }
 }
+*/
 
 @media (max-width: 767px) {
   .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
-    color: darkslategray !important;
+    color: black !important;
   }
 }
 
