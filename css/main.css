@@ -78,8 +78,8 @@ dt {
 }
 
 blockquote {
-  border-left-color: #c5a173;
-  color: #c5a173;
+  border-left-color: #002447;
+  color: #002447;
 }
 
 blockquote blockquote {
@@ -165,7 +165,7 @@ blockquote footer {
 
 iframe {
   padding: 3px;
-  border: 1px solid silver;
+  border: 1px solid #002447;
 }
 
 /* Format the nav  ---------------------------------------------------------- */
@@ -196,9 +196,9 @@ nav {
 @media only screen and (min-width: 768px) {
   .navbar-default .navbar-nav>.open>a {
     background: white !important;
-    border-right: 1px solid silver;
-    border-top: 1px solid silver;
-    border-left: 1px solid silver;
+    border-right: 1px solid #002447;
+    border-top: 1px solid #002447;
+    border-left: 1px solid #002447;
   }
 
   /* hover effects */
@@ -367,19 +367,19 @@ footer {
 }
 
 #projects .panel-body {
-  background: silver;
+  background: #002447;
 }
 
 #projects .panel-heading {
   border-bottom: none;
   text-align: center;
-  background: silver;
+  background: #002447;
   padding: 1rem;
 }
 
 #projects .panel-footer {
   text-align: center;
-  background: silver;
+  background: #002447;
   padding: 1rem;
   border-top: none;
 }
@@ -416,7 +416,7 @@ footer {
   margin-bottom: 2rem;
   width: 100px;
   padding: 3px;
-  border: 1px solid silver;
+  border: 1px solid #002447;
 }
 
 /* Lists ------------------------------------------------------------- */
@@ -454,12 +454,12 @@ dd {
   font-weight: 900;
   content: "\f068";
   float: right;
-  color: silver;
+  color: #002447;
 }
 
 .panel-heading .accordion-plus-toggle.collapsed:before {
   content: "\f067";
-  color: silver;
+  color: #002447;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
 }
@@ -470,14 +470,14 @@ dd {
   font-weight: 900;
   content: "\f078";
   float: right;
-  color: silver;
+  color: #002447;
 }
 
 .panel-heading .accordion-arrow-toggle.collapsed:before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f054";
-  color: silver;
+  color: #002447;
 }
 
 /* sets the link to the width of the entire panel title */
