@@ -165,7 +165,7 @@ blockquote footer {
 
 iframe {
   padding: 3px;
-  border: 1px solid #002447;
+  border: 1px solid #f8f8f6;
 }
 
 /* Format the nav  ---------------------------------------------------------- */
@@ -196,9 +196,9 @@ nav {
 @media only screen and (min-width: 768px) {
   .navbar-default .navbar-nav>.open>a {
     background: white !important;
-    border-right: 1px solid #002447;
-    border-top: 1px solid #002447;
-    border-left: 1px solid #002447;
+    border-right: 1px solid #f8f8f6;
+    border-top: 1px solid #f8f8f6;
+    border-left: 1px solid #f8f8f6;
   }
 
   /* hover effects */
@@ -367,19 +367,19 @@ footer {
 }
 
 #projects .panel-body {
-  background: #002447;
+  background: #f8f8f6;
 }
 
 #projects .panel-heading {
   border-bottom: none;
   text-align: center;
-  background: #002447;
+  background: #f8f8f6;
   padding: 1rem;
 }
 
 #projects .panel-footer {
   text-align: center;
-  background: #002447;
+  background: #f8f8f6;
   padding: 1rem;
   border-top: none;
 }
@@ -416,7 +416,7 @@ footer {
   margin-bottom: 2rem;
   width: 100px;
   padding: 3px;
-  border: 1px solid #002447;
+  border: 1px solid #f8f8f6;
 }
 
 /* Lists ------------------------------------------------------------- */
@@ -454,12 +454,12 @@ dd {
   font-weight: 900;
   content: "\f068";
   float: right;
-  color: #002447;
+  color: #f8f8f6;
 }
 
 .panel-heading .accordion-plus-toggle.collapsed:before {
   content: "\f067";
-  color: #002447;
+  color: #f8f8f6;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
 }
@@ -470,14 +470,14 @@ dd {
   font-weight: 900;
   content: "\f078";
   float: right;
-  color: #002447;
+  color: #f8f8f6;
 }
 
 .panel-heading .accordion-arrow-toggle.collapsed:before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f054";
-  color: #002447;
+  color: #f8f8f6;
 }
 
 /* sets the link to the width of the entire panel title */
