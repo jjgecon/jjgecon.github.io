@@ -195,7 +195,7 @@ nav {
 
 @media only screen and (min-width: 768px) {
   .navbar-default .navbar-nav>.open>a {
-    background: white !important;
+    background: black !important;
     border-right: 1px solid #f8f8f6;
     border-top: 1px solid #f8f8f6;
     border-left: 1px solid #f8f8f6;
