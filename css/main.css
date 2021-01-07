@@ -1,9 +1,3 @@
-/*
-#ffffff
-#edeae6
-#c5a173
-#181c16
-#cf0015 */
 /* Global page and element settings ----------------------------------------------------- */
 body {
   font-size: 16px;
@@ -12,7 +6,7 @@ body {
 }
 
 #badge-more {
-  background-color: #cf0015;
+  background-color: #0072B2;
   color: black;
   cursor: pointer;
 }
@@ -65,7 +59,7 @@ h4, h5, h6 {
 .panel-heading h5 {
   font-style: italic;
   font-weight: 500;
-  color: #cf0015 !important;
+  color: #0072B2 !important;
 }
 
 #projects .panel-heading h5 {
@@ -122,22 +116,34 @@ blockquote footer {
   ;
 }
 
-.center {
+.centerone {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+.centertwo {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto; 
+}
+
+#images{
+  text-align:center;
 }
 
 /* Links */
 #main-container a {
-  color: #cf0015;
+  color: #0072B2;
   font-weight: 00;
 }
 
 #main-container a:hover {
-  color: #cf0015;
-  border-bottom: 1px solid #cf0015;
+  color: #0072B2;
+  border-bottom: 1px solid #0072B2;
   text-decoration: none;
   padding-bottom: 1px;
 }
@@ -159,7 +165,7 @@ blockquote footer {
 
 iframe {
   padding: 3px;
-  border: 1px solid #edeae6;
+  border: 1px solid silver;
 }
 
 /* Format the nav  ---------------------------------------------------------- */
@@ -190,9 +196,9 @@ nav {
 @media only screen and (min-width: 768px) {
   .navbar-default .navbar-nav>.open>a {
     background: white !important;
-    border-right: 1px solid #edeae6;
-    border-top: 1px solid #edeae6;
-    border-left: 1px solid #edeae6;
+    border-right: 1px solid silver;
+    border-top: 1px solid silver;
+    border-left: 1px solid silver;
   }
 
   /* hover effects */
@@ -226,6 +232,12 @@ nav {
   .hvr-bubble-bottom:hover:before, .hvr-bubble-bottom:focus:before, .hvr-bubble-bottom:active:before {
     -webkit-transform: translateY(10px);
     transform: translateY(10px);
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
+    color: darkslategray !important;
   }
 }
 
@@ -308,14 +320,14 @@ nav {
 
 #link-to-docs,
 #link-to-teaching-philosophy {
-  color: #cf0015;
+  color: #0072B2;
 }
 
 #link-to-docs:hover,
 #link-to-docs:active,
 #link-to-docs:visited,
 #link-to-docs:focus {
-  border: 1px solid #cf0015 !important;
+  border: 1px solid #0072B2 !important;
   padding-bottom: 6px !important;
   background: transparent !important;
 }
@@ -337,7 +349,7 @@ footer {
 }
 
 .social-icons li a {
-  color: #cf0015;
+  color: #0072B2;
 }
 
 .social-icons li a:hover {
@@ -355,19 +367,19 @@ footer {
 }
 
 #projects .panel-body {
-  background: #edeae6;
+  background: silver;
 }
 
 #projects .panel-heading {
   border-bottom: none;
   text-align: center;
-  background: #edeae6;
+  background: silver;
   padding: 1rem;
 }
 
 #projects .panel-footer {
   text-align: center;
-  background: #edeae6;
+  background: silver;
   padding: 1rem;
   border-top: none;
 }
@@ -404,7 +416,7 @@ footer {
   margin-bottom: 2rem;
   width: 100px;
   padding: 3px;
-  border: 1px solid #edeae6;
+  border: 1px solid silver;
 }
 
 /* Lists ------------------------------------------------------------- */
@@ -442,12 +454,12 @@ dd {
   font-weight: 900;
   content: "\f068";
   float: right;
-  color: #edeae6;
+  color: silver;
 }
 
 .panel-heading .accordion-plus-toggle.collapsed:before {
   content: "\f067";
-  color: #edeae6;
+  color: silver;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
 }
@@ -458,14 +470,14 @@ dd {
   font-weight: 900;
   content: "\f078";
   float: right;
-  color: #edeae6;
+  color: silver;
 }
 
 .panel-heading .accordion-arrow-toggle.collapsed:before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f054";
-  color: #edeae6;
+  color: silver;
 }
 
 /* sets the link to the width of the entire panel title */
