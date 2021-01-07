@@ -190,7 +190,7 @@ nav {
 }
 
 .navbar-default .navbar-nav>li>a:active {
-  background: white !important;
+  background: black !important;
 }
 
 @media only screen and (min-width: 768px) {
