@@ -262,7 +262,7 @@ nav {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-  color: white;
+  color: black;
 }
 
 .navbar {
@@ -272,7 +272,7 @@ nav {
 }
 
 .active {
-  background-color: transparent; 
+  background: white; 
   /* border-radius: 2px;*/
 }
 
