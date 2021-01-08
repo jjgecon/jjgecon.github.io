@@ -13,6 +13,9 @@
 \setbeamertemplate{enumerate items}[default]
 \setbeamertemplate{itemize subitem}{--}
 \setbeamertemplate{itemize subsubitem}{--}
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
 \end_preamble
 \options aspectratio=169
 \use_default_options true
@@ -88,28 +91,15 @@
 \begin_body
 
 \begin_layout Title
-Propuesta de Tesis
+LyX Template
 \end_layout
 
 \begin_layout Institute
-Universidad Adolfo Iba
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-~
-\end_layout
-
-\end_inset
-
-nez
+Institution
 \end_layout
 
 \begin_layout Author
-Javier Gonzalez
+Author
 \end_layout
 
 \begin_layout Frame
@@ -117,7 +107,7 @@ Javier Gonzalez
 status open
 
 \begin_layout Plain Layout
-Pregunta de Investigación
+Title
 \end_layout
 
 \end_inset
@@ -127,8 +117,7 @@ Pregunta de Investigación
 
 \begin_deeper
 \begin_layout Itemize
-¿Cuánto afecta la existencia de una brecha de género en el emprendimiento
- sobre la productividad agregada o en producto per cápita en Chile?
+¿One question?
 \end_layout
 
 \end_deeper
@@ -144,7 +133,7 @@ Pregunta de Investigación
 status open
 
 \begin_layout Plain Layout
-Cuberes y Teignier (2016)
+Title
 \end_layout
 
 \end_inset
@@ -154,33 +143,32 @@ Cuberes y Teignier (2016)
 
 \begin_deeper
 \begin_layout Itemize
-El paper de Cuberes y Teignier (2016) mide cual es el efecto en PIB per
- capita y productividad, de la existencia de un 
-\emph on
-gender gap
-\emph default
- en el emprendimiento.
+Statement 1
+\begin_inset VSpace medskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Analiza un modelo donde:
+Statement 2
+\begin_inset VSpace medskip
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Cierto % de mujeres solo puede ser empleada.
+Statement 2.1
+\begin_inset VSpace medskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Otro % de mujeres puede ser empleada y emprender sola.
-\end_layout
-
-\begin_layout Itemize
-El restante % puede ser empleada, emprendedora y empleadora.
-\end_layout
-
-\begin_layout Itemize
-Los hombres son libres de elegir en las tres opciones.
+Statement 2.2
 \end_layout
 
 \end_deeper
@@ -197,7 +185,7 @@ Los hombres son libres de elegir en las tres opciones.
 status open
 
 \begin_layout Plain Layout
-Cuberes y Teignier (2016)
+Simple Figure
 \end_layout
 
 \end_inset
@@ -216,9 +204,9 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Retornos dependiendo de 
+
 \emph on
-Habilidad de Emprender
+Figure 1
 \end_layout
 
 \end_inset
@@ -237,6 +225,12 @@ centering
 \end_inset
 
 
+\begin_inset Graphics
+	filename a
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Plain Layout
@@ -246,6 +240,31 @@ centering
 \end_inset
 
 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Figure with Subfigures
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
@@ -257,7 +276,7 @@ status open
 \begin_layout Plain Layout
 
 \emph on
-Dos figs
+Two figures
 \end_layout
 
 \end_inset
@@ -276,6 +295,12 @@ status open
 \emph on
 y!
 \end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename a
 
 \end_inset
 
@@ -300,7 +325,8 @@ o!
 \end_inset
 
 
-\end_layout
+\begin_inset Graphics
+	filename a
 
 \end_inset
 
@@ -312,9 +338,9 @@ o!
 
 \end_layout
 
-\begin_layout Itemize
-Encuentran que esta restricción al emprendimiento disminuye el PIB pc en
- un 15-17%.
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -330,7 +356,7 @@ Encuentran que esta restricción al emprendimiento disminuye el PIB pc en
 status open
 
 \begin_layout Plain Layout
-Motivación
+Blocks
 \end_layout
 
 \end_inset
@@ -340,8 +366,7 @@ Motivación
 
 \begin_deeper
 \begin_layout Standard
-Sin embargo, su única restricción es decir que hay cierto porcentaje de
- mujeres que no puede hacer tal actividad.
+No bullet
 \end_layout
 
 \begin_layout Block
@@ -349,7 +374,7 @@ Sin embargo, su única restricción es decir que hay cierto porcentaje de
 status open
 
 \begin_layout Plain Layout
-Cual es la restricción real?
+Block
 \end_layout
 
 \end_inset
@@ -359,20 +384,20 @@ Cual es la restricción real?
 
 \begin_deeper
 \begin_layout Itemize
-Restricción al financiamiento?
+part 1
 \end_layout
 
 \begin_layout Itemize
-Preferencias por no emprender de las mujeres?
+part 2
 \end_layout
 
 \begin_layout Itemize
-Mayor aversión al riesgo?
+part 3
 \end_layout
 
 \end_deeper
 \begin_layout Block
-Que el autor no se hace cargo.
+No bullet
 \end_layout
 
 \end_deeper
@@ -388,7 +413,7 @@ Que el autor no se hace cargo.
 status open
 
 \begin_layout Plain Layout
-Motivación
+Links between slides
 \end_layout
 
 \end_inset
@@ -407,7 +432,7 @@ status open
 \backslash
 hyperlink{link2}{
 \backslash
-beamergotobutton{Final!}}
+beamergotobutton{table}}
 \end_layout
 
 \end_inset
@@ -423,24 +448,24 @@ name "link1"
 \end_layout
 
 \begin_layout Itemize
-La OECD muestra en un reporte llamado 
-\emph on
-Closing the Gender Gap
-\emph default
- (2012):
+Statement 1
+\begin_inset VSpace medskip
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-En el 2007 se analizaron varios países (incluyendo a Chile) donde solo 6.3%
- de las mujeres emprendedoras utilizaron créditos para financiar sus proyectos,
- mientras que un 11.1% de los hombres usaron créditos externos.
+Statement 1.1
+\begin_inset VSpace medskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Los emprendimiento comenzados por una mujer son menos productivos que de
- los hombres.
- Por su uso intensivo en trabajo.
+Statement 1.2
 \end_layout
 
 \end_deeper
@@ -461,7 +486,7 @@ Los emprendimiento comenzados por una mujer son menos productivos que de
 status open
 
 \begin_layout Plain Layout
-Motivación
+Using Blocks
 \end_layout
 
 \end_inset
@@ -475,7 +500,7 @@ Motivación
 status open
 
 \begin_layout Plain Layout
-Pregunta Interesante:
+Interesting question:
 \end_layout
 
 \end_inset
@@ -485,12 +510,11 @@ Pregunta Interesante:
 
 \begin_deeper
 \begin_layout Itemize
-Existe una restricción en el mercado financiero para las mujeres emprendedoras?
+Answer 1
 \end_layout
 
 \begin_layout Itemize
-Se debe a discriminación, barreras de acceso o preferencias distintas de
- los emprendedores?
+Answer 2
 \end_layout
 
 \end_deeper
@@ -507,7 +531,7 @@ Se debe a discriminación, barreras de acceso o preferencias distintas de
 status open
 
 \begin_layout Plain Layout
-Discriminación
+Progressive points
 \end_layout
 
 \end_inset
@@ -517,7 +541,7 @@ Discriminación
 
 \begin_deeper
 \begin_layout Standard
-La literatura no evidencia que exista un discriminación sistemática:
+Statement 1
 \end_layout
 
 \begin_layout Enumerate
@@ -531,24 +555,21 @@ status open
 
 \end_inset
 
- No se encuentra discriminación en tasas de interés para África Subsahariana,
- algunos países en desarrollo y en vías de desarrollo (Asiedu et al., 2013;
- Aterido et al., 2013; Moro et al., 2017).
+ Step slides (1)
 \end_layout
 
 \begin_layout Enumerate
-En Italia hay reportes contradictorios:
+Now its this point (2)
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Hay discriminación de precios del financiamiento a través de varias industrias
- incluyendo moda y comida (Alesina et al., 2013).
+Then this one...
 \end_layout
 
 \begin_layout Itemize
-No hay discriminación de precios, pero si tienen diferentes nivel de acceso
- al financiamiento (Bellucci et al., 2010).
+...
+ and last one!
 \end_layout
 
 \end_deeper
@@ -565,7 +586,7 @@ No hay discriminación de precios, pero si tienen diferentes nivel de acceso
 status open
 
 \begin_layout Plain Layout
-Acceso al Mercado Financiero
+Show a point in a specific slide
 \end_layout
 
 \end_inset
@@ -575,68 +596,11 @@ Acceso al Mercado Financiero
 
 \begin_deeper
 \begin_layout Standard
-Hay mas evidencia en cuanto a un diferente acceso a los mercados financieros:
+Show this point:
 \end_layout
 
 \begin_layout Enumerate
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-
-+(1)-
-\end_layout
-
-\end_inset
-
- En Brasil existe una diferencia en las condiciones de los prestamos.
- A los hombres le prestan mas plata que a las mujeres, controlando por caracterí
-sticas observables (Agier and Szafarz, 2013).
-\end_layout
-
-\begin_layout Enumerate
-En Europa, pocas emprendedoras entran al mercado financiero porque 
-\begin_inset Flex Structure
-status open
-
-\begin_layout Plain Layout
-creen
-\end_layout
-
-\end_inset
-
- que no les darán el crédito (Moro et al., 2017).
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset Separator plain
-\end_inset
-
-
-\end_layout
-
-\begin_layout Frame
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Acceso al Mercado Financiero
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Hay mas evidencia en cuanto a un diferente acceso a los mercados financieros:
-\end_layout
-
-\begin_layout Enumerate
-En 17 países de Europa las mujeres tienen mayor probabilidad de salirse
- de un proceso de aplicación de prestamos (Ongena and Popov, 2016)
+and this one.
 \end_layout
 
 \begin_layout Enumerate
@@ -650,8 +614,7 @@ status open
 
 \end_inset
 
-En Asia las mujeres tienen menor probabilidad de tomar créditos formales
- de empresas de micro-financiamiento (Wellalage and Locke, 2017).
+Only show this point in slide 2.
 \end_layout
 
 \end_deeper
@@ -667,7 +630,7 @@ En Asia las mujeres tienen menor probabilidad de tomar créditos formales
 status open
 
 \begin_layout Plain Layout
-Acceso al Mercado Financiero
+Columns
 \end_layout
 
 \end_inset
@@ -690,12 +653,7 @@ Acceso al Mercado Financiero
 \end_layout
 
 \begin_layout Standard
-\begin_inset Graphics
-	filename a
-
-\end_inset
-
-
+Column 1!
 \end_layout
 
 \begin_layout Column
@@ -703,57 +661,7 @@ Acceso al Mercado Financiero
 \end_layout
 
 \begin_layout Standard
-En 17 países de Europa las mujeres tienen mayor probabilidad de salirse
- de un proceso de aplicación de prestamos (Ongena and Popov, 2016)
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Standard
-\begin_inset Separator plain
-\end_inset
-
-
-\end_layout
-
-\begin_layout Frame
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Acceso al Mercado Financiero
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Columns
-
-\end_layout
-
-\begin_layout Columns
-
-\end_layout
-
-\begin_deeper
-\begin_layout Column
-6.5cm
-\end_layout
-
-\begin_layout Standard
-Hay mas evidencia en cuanto a un diferente acceso a los mercados financieros:
-\end_layout
-
-\begin_layout Column
-6.5cm
-\end_layout
-
-\begin_layout Standard
-En 17 países de Europa las mujeres tienen mayor probabilidad de salirse
- de un proceso de aplicación de prestamos (Ongena and Popov, 2016)
+Column 2!
 \end_layout
 
 \end_deeper
@@ -770,7 +678,7 @@ En 17 países de Europa las mujeres tienen mayor probabilidad de salirse
 status open
 
 \begin_layout Plain Layout
-Motivación
+Resize table
 \end_layout
 
 \end_inset
@@ -789,9 +697,7 @@ status open
 \backslash
 hyperlink{link1}{
 \backslash
-beamergotobutton{Motivaci
-\backslash
-'on}}
+beamergotobutton{return}}
 \end_layout
 
 \end_inset
@@ -803,7 +709,15 @@ name "link2"
 
 \end_inset
 
-
+This table can be resized usign changing 
+\backslash
+resizebox{1
+\backslash
+textwidth}{!} to 
+\backslash
+resizebox{0.5
+\backslash
+textwidth}{!} to a number from 0 to 1 that makes sense.
 \end_layout
 
 \begin_layout Standard
