@@ -457,7 +457,16 @@ Statement 1
 
 \begin_deeper
 \begin_layout Itemize
+\begin_inset Flex Structure
+status open
+
+\begin_layout Plain Layout
 Statement 1.1
+\end_layout
+
+\end_inset
+
+
 \begin_inset VSpace medskip
 \end_inset
 
@@ -465,7 +474,16 @@ Statement 1.1
 \end_layout
 
 \begin_layout Itemize
+\begin_inset Flex Alert
+status open
+
+\begin_layout Plain Layout
 Statement 1.2
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
