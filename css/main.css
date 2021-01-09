@@ -6,7 +6,7 @@ body {
 }
 
 #badge-more {
-  background-color: #009E73;
+  background-color: #0072B2;
   color: black;
   cursor: pointer;
 }
@@ -59,7 +59,7 @@ h4, h5, h6 {
 .panel-heading h5 {
   font-style: italic;
   font-weight: 500;
-  color: #009E73 !important;
+  color: #0072B2 !important;
 }
 
 #projects .panel-heading h5 {
@@ -137,13 +137,13 @@ blockquote footer {
 
 /* Links */
 #main-container a {
-  color: #009E73;
+  color: #0072B2;
   font-weight: 00;
 }
 
 #main-container a:hover {
-  color: #009E73;
-  border-bottom: 1px solid #009E73;
+  color: #0072B2;
+  border-bottom: 1px solid #0072B2;
   text-decoration: none;
   padding-bottom: 1px;
 }
@@ -325,14 +325,14 @@ nav {
 
 #link-to-docs,
 #link-to-teaching-philosophy {
-  color: #009E73;
+  color: #0072B2;
 }
 
 #link-to-docs:hover,
 #link-to-docs:active,
 #link-to-docs:visited,
 #link-to-docs:focus {
-  border: 1px solid #009E73 !important;
+  border: 1px solid #0072B2 !important;
   padding-bottom: 6px !important;
   background: transparent !important;
 }
@@ -354,7 +354,7 @@ footer {
 }
 
 .social-icons li a {
-  color: #009E73;
+  color: #0072B2;
 }
 
 .social-icons li a:hover {

@@ -27,7 +27,7 @@
 \definecolor{green}{RGB}{0,158,115}
 
 % Change Color of the theme
-\usecolortheme[named=green]{structure}
+\usecolortheme[named=blue]{structure}
 \end_preamble
 \options aspectratio=169
 \use_default_options true
@@ -496,9 +496,46 @@ Statement 1.2
 \end_inset
 
 
+\begin_inset VSpace medskip
+\end_inset
+
+
 \end_layout
 
 \end_deeper
+\begin_layout Itemize
+Equation Array
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+f(x) & = & x^{2}-1\\
+g(x) & = & \left(3x+1\right)^{3}
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Brackey eq 
+\begin_inset Formula 
+\[
+f(k)=\begin{cases}
+1 & 0\leq k\\
+0 & 0>k
+\end{cases}
+\]
+
+\end_inset
+
+
+\end_layout
+
 \end_deeper
 \begin_layout Frame
 
