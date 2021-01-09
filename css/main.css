@@ -507,9 +507,9 @@ dd {
   border-radius: 4px 0 0 4px;
   cursor: pointer;
   font-size: 1.6rem;
+  opacity: .6;
 }
 
 #topper:hover {
-  background-color: white;
-  opacity: .8;
+  opacity: 1;
 }
