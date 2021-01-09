@@ -9,13 +9,25 @@
 \usepackage{ragged2e}
 
 \usetheme{default}
+
+% Modify the bullets
 \useinnertheme{circles}
 \setbeamertemplate{enumerate items}[default]
 \setbeamertemplate{itemize subitem}{--}
 \setbeamertemplate{itemize subsubitem}{--}
 
+% Eliminate footer
 \setbeamertemplate{navigation symbols}{}
 \setbeamertemplate{footline}[frame number]
+
+% Define the colors to be used
+\definecolor{blue}{RGB}{0,114,178}
+\definecolor{red}{RGB}{213,94,0}
+\definecolor{yellow}{RGB}{240,228,66}
+\definecolor{green}{RGB}{0,158,115}
+
+% Change Color of the theme
+\usecolortheme[named=green]{structure}
 \end_preamble
 \options aspectratio=169
 \use_default_options true
