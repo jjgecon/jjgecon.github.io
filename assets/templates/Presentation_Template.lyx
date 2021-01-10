@@ -21,10 +21,10 @@
 \setbeamertemplate{footline}[frame number]
 
 % Define the colors to be used
-\definecolor{blue}{RGB}{0,114,178}
-\definecolor{red}{RGB}{213,94,0}
-\definecolor{yellow}{RGB}{240,228,66}
-\definecolor{green}{RGB}{0,158,115}
+\definecolor{blue}{RGB}{15,82,186}
+\definecolor{red}{RGB}{186,27,15}
+\definecolor{yellow}{RGB}{186,137,104}
+\definecolor{green}{RGB}{63,112,77}
 
 % Change Color of the theme
 \usecolortheme[named=blue]{structure}
