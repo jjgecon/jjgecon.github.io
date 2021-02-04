@@ -68,7 +68,7 @@ h4, h5, h6 {
 }
 
 p, table, tr, td, ul, li, blockquote, nav, a, footer, dl, dt, dd {
-  font-size: 1.6rem;
+  font-size: 1.65rem;
   font-family: "Montserrat", Helvetica, sans-serif;
   font-weight: 400;
 }
@@ -176,7 +176,7 @@ nav {
 
 .navbar-default .navbar-nav>li>a {
   color: black;
-  font-weight: 500;
+  font-weight: 100;
 }
 
 .nav .montserrat:hover,
@@ -185,8 +185,8 @@ nav {
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
-  font-weight: 900;
-  color: black !important;
+  font-weight: 150;
+  color: #0F52BA !important;
 }
 
 .navbar-default .navbar-nav>li>a:active {
@@ -238,7 +238,6 @@ nav {
 
 .navbar-inverse {
   background: white;
-  border-color: white;
 }
 
 .navbar-navbar-toggle {
@@ -251,14 +250,14 @@ nav {
 }
 
 .navbar-brand {
-  font-size: 2.15rem !important;
-  font-weight: 500;
-  color: black !important;
+  font-size: 2.3rem !important;
+  font-weight: 550;
+  color: rgba(0, 0, 0, 0.7) !important;
 }
 
 /* Navbar link size */
 .navbar-default .navbar-nav>li>a {
-  font-size: 1.5rem !important;
+  font-size: 1rem !important;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -270,11 +269,12 @@ nav {
   border: 0px;
   border-color: white;
 }
-
+/* 
 .active {
   background: black; 
-  /* border-radius: 2px;*/
-}
+  border-radius: 2px;
+} 
+*/
 
 .navbar .dropdown-menu {
   background: black; 
