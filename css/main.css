@@ -73,6 +73,10 @@ p, ul, li, blockquote, nav, a, footer, dl, dt, dd {
   font-weight: 400;
 }
 
+ul {
+  line-height:180%
+}
+
 table tr td{
   font-size: 1.6rem;
   font-family: "Montserrat", Helvetica, sans-serif;
