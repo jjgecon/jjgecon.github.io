@@ -78,12 +78,23 @@ ul {
 }
 
 table tr td{
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-family: "Montserrat", Helvetica, sans-serif;
   font-weight: 400;
   border-style: hidden;
   border-collapse: collapse;
   border-spacing:0;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr a {
+  font-size: 1.5rem;
+  font-family: "Montserrat", Helvetica, sans-serif;
+  font-weight: 400;
 }
 
 dt {
