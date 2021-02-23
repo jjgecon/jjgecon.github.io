@@ -67,10 +67,19 @@ h4, h5, h6 {
   color: black !important;
 }
 
-p, table, tr, td, ul, li, blockquote, nav, a, footer, dl, dt, dd {
+p, ul, li, blockquote, nav, a, footer, dl, dt, dd {
   font-size: 1.6rem;
   font-family: "Montserrat", Helvetica, sans-serif;
   font-weight: 400;
+}
+
+table tr td{
+  font-size: 1.6rem;
+  font-family: "Montserrat", Helvetica, sans-serif;
+  font-weight: 400;
+  border-style: hidden;
+  border-collapse: collapse;
+  border-spacing:0;
 }
 
 dt {
