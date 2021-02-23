@@ -296,12 +296,13 @@ nav {
   color:#0F52BA;
 }
 
-/* #link-to-docs:active,
-#link-to-docs:visited {
-} */
-
-#link-to-docs:hover,
+#link-to-docs:active,
+#link-to-docs:visited,
 #link-to-docs:focus {
+  border-color: silver !important;
+}
+
+#link-to-docs:hover{
   border-color: #0F52BA !important;
   padding-bottom: 6px !important;
   background: transparent !important;
