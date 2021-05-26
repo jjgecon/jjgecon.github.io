@@ -75,9 +75,9 @@ p, ul, li, blockquote, nav, a, footer, dl, dt, dd {
 
 /* this is for the abstracts in the research tab */
 h6 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-family: "Montserrat", Helvetica, sans-serif;
-  font-weight: 400;
+  font-weight: 100;
 }
 
 ul {
