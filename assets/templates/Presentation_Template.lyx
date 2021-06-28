@@ -24,10 +24,10 @@
 \definecolor{blue}{RGB}{15,82,186}
 \definecolor{red}{RGB}{186,27,15}
 \definecolor{yellow}{RGB}{186,137,104}
-\definecolor{green}{RGB}{63,112,77}
+\definecolor{green}{rgb}{0.05, 0.5, 0.06}
 
 % Change Color of the theme
-\usecolortheme[named=blue]{structure}
+\usecolortheme[named=green]{structure}
 \end_preamble
 \options aspectratio=169
 \use_default_options true
@@ -36,7 +36,7 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "default"
+\font_roman "palatino" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
 \font_math "auto" "auto"
@@ -82,8 +82,8 @@
 \shortcut idx
 \color #008000
 \end_index
-\secnumdepth 3
-\tocdepth 3
+\secnumdepth 2
+\tocdepth 2
 \paragraph_separation indent
 \paragraph_indentation default
 \is_math_indent 0
@@ -776,15 +776,19 @@ name "link2"
 
 \end_inset
 
-This table can be resized usign changing 
+This table can be resized changing 
 \backslash
-resizebox{1
+resizebox{
 \backslash
 textwidth}{!} to 
 \backslash
 resizebox{0.5
 \backslash
-textwidth}{!} to a number from 0 to 1 that makes sense.
+textwidth}{!} to reduce it's size (or a number <1) or to 
+\backslash
+resizebox{1.2
+\backslash
+textwidth}{!} (or a number <1).
 \end_layout
 
 \begin_layout Standard
