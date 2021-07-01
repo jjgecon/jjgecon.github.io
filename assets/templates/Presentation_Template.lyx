@@ -24,10 +24,9 @@
 \definecolor{blue}{RGB}{15,82,186}
 \definecolor{red}{RGB}{186,27,15}
 \definecolor{yellow}{RGB}{186,137,104}
-\definecolor{green}{rgb}{0.05, 0.5, 0.06}
 
 % Change Color of the theme
-\usecolortheme[named=green]{structure}
+\usecolortheme[named=blue]{structure}
 \end_preamble
 \options aspectratio=169
 \use_default_options true
@@ -223,30 +222,7 @@ Figure 1
 
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-centering
-\end_layout
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename a
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
+put figure here!
 \end_layout
 
 \end_inset
@@ -310,13 +286,7 @@ y!
 
 \end_inset
 
-
-\begin_inset Graphics
-	filename a
-
-\end_inset
-
-
+put figure here!
 \end_layout
 
 \end_inset
@@ -336,13 +306,7 @@ o!
 
 \end_inset
 
-
-\begin_inset Graphics
-	filename a
-
-\end_inset
-
-
+put figure here!
 \end_layout
 
 \end_inset
@@ -353,63 +317,6 @@ o!
 \end_inset
 
 
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset Separator plain
-\end_inset
-
-
-\end_layout
-
-\begin_layout Frame
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Blocks
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-No bullet
-\end_layout
-
-\begin_layout Block
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-Block
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-part 1
-\end_layout
-
-\begin_layout Itemize
-part 2
-\end_layout
-
-\begin_layout Itemize
-part 3
-\end_layout
-
-\end_deeper
-\begin_layout Block
-No bullet
 \end_layout
 
 \end_deeper
