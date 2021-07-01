@@ -94,7 +94,7 @@ ul {
 
 table tr td{
   font-size: 1.7rem;
-  font-weight: 400;
+  /* font-weight: 400; */
   border-style: hidden;
   border-collapse: collapse;
   border-spacing:0;
@@ -106,8 +106,8 @@ table tr td{
 }
 
 tr td a {
-  font-size: 1.45rem;
-  font-weight: 400;
+  font-size: 1.6rem;
+  /* font-weight: 400; */
 }
 
 dt {
