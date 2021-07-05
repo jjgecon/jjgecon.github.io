@@ -51,9 +51,9 @@ h3 {
   text-transform: uppercase;
 }
 
-h5 {
+.panel-body h5 {
   color: black !important;
-  font-size: 1.85rem;
+  font-size: 1.7rem;
 }
 
 h4 {
@@ -62,14 +62,14 @@ h4 {
 }
 
 .panel-heading h5 {
-  font-size: 1.85rem;
+  font-size: 1.8rem;
   font-style: italic;
   font-weight: 500;
   color:#0F52BA !important;
 }
 
 #projects .panel-heading h5 {
-  font-size: 1.85rem;
+  font-size: 1.8rem;
   font-weight: 500;
   color: black !important;
 }
@@ -80,7 +80,7 @@ nav {
 }
 
 p, ul, li, blockquote, a, footer, dl, dt, dd {
-  font-size: 1.85rem;
+  font-size: 1.8rem;
   /* font-weight: 400; */
 }
 
@@ -96,7 +96,7 @@ ul {
 }
 
 table tr td{
-  font-size: 1.85rem;
+  font-size: 1.8rem;
   /* font-weight: 400; */
   border-style: hidden;
   border-collapse: collapse;
@@ -233,7 +233,7 @@ nav {
 }
 
 .navbar-brand {
-  font-size: 2.3rem !important;
+  font-size: 3rem !important;
   font-weight: 550;
   color: rgba(0, 0, 0, 0.7) !important;
 }
