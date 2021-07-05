@@ -16,23 +16,9 @@ body {
   font-family: "Montserrat", Helvetica, sans-serif !important;
 } */
 
-/* Degree area -------------------------------------------------------------------- */
-#education {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-#education li {
-  margin-bottom: 1rem;
-}
-
-.university {
-  color: gray;
-}
-
 /* Typography */
 h1, h2, h3, h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: Book Antiqua, serif;
   color: black;
   font-weight: 500;
 }
@@ -75,20 +61,13 @@ h4 {
 }
 
 nav {
-  font-family: 'Lato', sans-serif;
+  font-family: Book Antiqua, serif;
   font-weight: 400;
 }
 
 p, ul, li, blockquote, a, footer, dl, dt, dd {
   font-size: 1.8rem;
   /* font-weight: 400; */
-}
-
-/* this is for the abstracts in the research tab */
-h6 {
-  font-size: 1.2rem;
-  font-family: 'Lato', sans-serif;
-  font-weight: 100;
 }
 
 ul {
@@ -110,7 +89,7 @@ table tr td{
 
 tr td a {
   font-size: 1.8rem;
-  /* font-weight: 400; */
+  color: black !important;
 }
 
 dt {
@@ -162,12 +141,9 @@ blockquote footer {
   font-weight: 0;
 }
 
-#main-container a:hover {
+/* #main-container a:hover {
   color:#0F52BA;
-  border-bottom: 1px solid#0F52BA;
-  text-decoration: none;
-  padding-bottom: 1px;
-}
+} */
 
 /* Contact info area, index.html page ------------------------------------------------- */
 #title {
@@ -194,14 +170,15 @@ nav {
   padding-bottom: 2rem;
 }
 
+.nav a{
+  font-size: 2rem;
+}
+
 .navbar-default .navbar-nav>li>a {
   color: black;
   font-weight: 100;
 }
 
-.nav .montserrat:hover,
-.nav .montserrat:focus-within,
-.nav .montserrat:focus,
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
@@ -233,9 +210,9 @@ nav {
 }
 
 .navbar-brand {
-  font-size: 3rem !important;
+  font-size: 3.3rem !important;
   font-weight: 550;
-  color: rgba(0, 0, 0, 0.7) !important;
+  color: #0F52BA !important;
 }
 
 /* Navbar link size */
