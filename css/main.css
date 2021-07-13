@@ -1,7 +1,7 @@
 /* Global page and element settings ----------------------------------------------------- */
 body {
   font-size: 50px;
-  font-family: 'Palatino Linotype', sans-serif;
+  font-family: Candara, Calibri, Arial, sans-serif;
   background: #FFFFFF;
 }
 
@@ -18,7 +18,7 @@ body {
 
 /* Typography */
 h1, h2, h3, h4 {
-  font-family: Book Antiqua, serif;
+  font-family: 'Lato', sans-serif;
   color: black;
   font-weight: 500;
 }
@@ -61,8 +61,8 @@ h4 {
 }
 
 nav {
-  font-family: Book Antiqua, serif;
-  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
 }
 
 p, ul, li, blockquote, a, footer, dl, dt, dd {
@@ -171,7 +171,7 @@ nav {
 }
 
 .nav a{
-  font-size: 2rem;
+  font-size: 1.9rem;
 }
 
 .navbar-default .navbar-nav>li>a {
