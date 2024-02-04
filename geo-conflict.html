@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!-- Metadata for the Webpage -->
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Javier Gonzalez | The Geography of Conflict</title>
+
+   <!-- Bootstrap CSS files-->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+   <!-- jQuery UI CSS (optional) -->
+   <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+
+   <!-- Google web fonts -->
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600" rel="stylesheet">
+
+   <!-- Font Awesome Web Icons -->
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+   <!-- Academicons Courtesy of https://jpswalsh.github.io/academicons/ -->
+   <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+   <!-- Local styles -->
+   <link rel="stylesheet" href="css/main.css">
+
+   <style>
+
+      .panel-body {
+         background-color: #edeae6;
+      }
+
+      #projects .panel:hover {
+         box-shadow: 3px 3px 10px lightgray;
+      }
+
+      .panel-title {
+         font-weight: bold !important;
+      }
+
+   </style>
+
+</head>
+
+<body>
+
+   <!-- navbar include -->
+   <div w3-include-html="navbar.html"></div>
+
+   <div class="spacer-div-3 hidden-xs hidden-xs"></div>
+
+   <!-- Main content    -->
+   <div id="main-container" class="container">
+
+      <div class="row">
+         <div class="col-sm-12">
+            <h1>The Geography of Conflict</h1>
+
+            <p>This project uses data to showcase compelling images of protests, historical wars, and pivotal moments around the world.</p>
+            <p>Each image comes with the underlying codes in a <a href = "https://plutojl.org/">Pluto Notebooks</a> using <a href = "https://julialang.org/">Julia</a>.
+                For a detailed guide on how to install and use <a href = "https://plutojl.org/">Pluto.jl</a> you can 
+               follow this <a href = "https://computationalthinking.mit.edu/Fall23/installation/">video</a>.</p>
+            <p><i>To access the notebook simply click on the image.</i></p>
+         </div>
+      </div>
+
+      <h3><span></span></h3>
+
+      <div class="row push-down-1" id="projects">
+
+         <a href="/assets/geo_of_conf/protest_SA.jl">
+            <div class="col-sm-12">
+               <div class="panel panel-default">
+                  <div class="panel-body">
+                     <h5 class="panel-title">Protest in South America (#1)</h5>
+                     <img class="center-block img img-responsive img-thumbnail" src="/assets/geo_of_conf/protest_sa.png" alt="click here for the code!">
+                     <p>Notes: this map displays the intensity of protests in South America from 1997-2023. Each white star represents the capital cities of each country. </p>
+                  </div>
+               </div>
+            </div>
+         </a>
+
+
+      </div>
+   <!-- .row -->
+   </div>
+
+   <!-- Back-to-top button -->
+   <a role="button" id="topper" data-toggle="tooltip" data-placement="top" title="Top" class="btn scroll-link" href="#top"><i class="fa fa-fw fa-2x fa-caret-up" aria-hidden="true"></i></a>
+
+   <!-- footer include -->
+   <div w3-include-html="footer.html"></div>
+
+   <!-- jQuery -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+   <!-- Bootstrap JS Library -->
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+   <!-- html file include script | used for navbar and footer -->
+   <script src="js/w3data.js"></script>
+   <script>
+      w3IncludeHTML()
+   </script>
+
+   <!-- Local scripts -->
+   <script src="js/main.js"></script>
+
+
+</body>
+
+</html>
