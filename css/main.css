@@ -474,8 +474,10 @@ dd {
 /* iframe changes -----------------------------------------------------*/
 
 .iframe-parent{
-  display: flex;
   height: 50vh;
+  flex-direction: row;
+  display: flex;
+  align-content: center;
 }
 
 /* Expand to the entire container */
