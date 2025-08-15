@@ -1,8 +1,37 @@
 /* Global page and element settings ----------------------------------------------------- */
-body {
-  font-size: 50px;
-  font-family: Candara, Calibri, Arial, sans-serif;
-  background: #FFFFFF;
+
+.publication-item {
+  font-size: 1.8rem;
+  font-family: inherit;
+}
+.abstract-toggle-btn {
+  font-size: 1.6rem;
+  padding: 0 0 0.5rem 0;
+  font-family: inherit;
+  background: none;
+  border: none;
+  color: black;
+  cursor: pointer;
+  box-shadow: none;
+  outline: none;
+  margin: 0;
+    transition: none;
+}
+.abstract-toggle-btn:hover, .abstract-toggle-btn:focus {
+  color: #0F52BA;
+  text-decoration: underline;
+  background: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.abstract-content {
+  font-size: 1.8rem;
+  background: #f8f9fa;
+  border-left: 3px solid #0F52BA;
+  padding: 0.7em 1em;
+  border-radius: 3px;
+  font-family: inherit;
 }
 
 #badge-more {
