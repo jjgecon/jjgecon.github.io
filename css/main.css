@@ -1,3 +1,14 @@
+p {
+  text-align: justify;
+}
+/* Make project images in data.html match in size */
+.project-img-match {
+  max-width: 90%;
+  height: 260px;
+  object-fit: cover;
+  margin: 0 auto 1em auto;
+  display: block;
+}
 /* Global page and element settings ----------------------------------------------------- */
 
 .publication-item {
@@ -26,7 +37,7 @@
 }
 
 .abstract-content {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   background: #f8f9fa;
   border-left: 3px solid #0F52BA;
   padding: 0.7em 1em;

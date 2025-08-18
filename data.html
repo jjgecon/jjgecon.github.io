@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!-- Metadata for the Webpage -->
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Javier Gonzalez | Data</title>
+
+   <!-- Bootstrap CSS files-->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+   <!-- jQuery UI CSS (optional) -->
+   <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+
+   <!-- Google web fonts -->
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600" rel="stylesheet">
+
+  <!-- Font Awesome Web Icons (v7) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" crossorigin="anonymous">
+
+   <!-- Academicons Courtesy of https://jpswalsh.github.io/academicons/ -->
+   <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+   <!-- Local styles -->
+   <link rel="stylesheet" href="css/main.css">
+
+</head>
+
+<body>
+
+   <!-- navbar include -->
+   <div w3-include-html="navbar.html"></div>
+
+   <div class="spacer-div-3 hidden-xs hidden-xs"></div>
+
+   <!-- Main content    -->
+   <div id="main-container" class="container">
+
+      <div class="row">
+         <div class="col-sm-12">
+            <h1>Data and Codes</h1>
+
+            <h3 class="push-down-4"><span>Telenovela Data</span></h3>
+            <p>
+               (Work in Progress) This dataset compiles information on a wide range of telenovelas, including plot summaries, episode lengths, and broadcast details for LATAM covering 1960-2024. In addition to basic show metadata, it features coded indicators of cultural values such as inequality, female empowerment, immigration, and environmental protection as reflected in the storylines. The dataset enables analysis of how these themes are represented and evolve across different series and time periods.
+            </p>
+
+
+            <h3 class="push-down-4"><span>Paper Replications</span></h3>
+               
+               <p>
+               <a href="https://www.aeaweb.org/articles?id=10.1257/app.20180426"><b>Gender Differences in the Choice of Major: The Importance of Female Role Models</b></a> <br>
+               Paper authors:  Catherine Porter and Danila Serra.
+               </p>
+               <p class="text-left" style="margin-bottom:0.5cm;">
+                  <a id="link-to-docs" role="button" class="btn btn-default" href="https://jjgecon.github.io/assets/resources/Porter_Serra_rep.pdf" target="_blank">
+                     <i class= "fas fa-chart-line" aria-hidden="true"></i>&nbsp; tables and figures </a>
+                  <a id="link-to-docs" role="button" class="btn btn-default" href="https://jjgecon.github.io/assets/resources/Porter_Serra_rep_add_a.pdf" target="_blank">
+                     <i class="far fa-file-pdf" aria-hidden="true"></i>&nbsp; additional analysis </a>
+                  <a id="link-to-docs" role="button" class="btn btn-default" href="https://github.com/jjgecon/Porter_Serra_2019_replication" target="_blank">
+                     <i class="fab fa-github" aria-hidden="true"></i>&nbsp; codes </a>
+               </p>
+
+            <h3 class="push-down-4"><span>Other Projects</span></h3>
+                      <ul>
+                           <li>
+                               <a href="one-page-econ.html">One-page Econ</a>: I tried to simplify the intricate world of economic research into concise one-page summaries.
+                           </li>
+                           <li>
+                               <a href="geo-conflict.html">The Geography of Conflict</a>: some maps exploring the <a href="https://www.gdeltproject.org/">GDELT</a>  protests dataset around the world using <a href = "https://julialang.org/">Julia</a>.
+                           </li>
+                           <li> <a href="https://github.com/jjgecon/Personal_coding_projects">Personal coding portfolio</a>: It contains some scripts related to economics and other random simulations.</li>
+                           <li> <a href="https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers">Does Gamer Slang Appel to Gamers? A YouTube Title Analysis</a>: This is a mini project to understand the basic concepts of Natural Language Processing (NLP) and using APIs.
+                           </li>
+                      </ul>
+
+                      <!-- Images from projects, displayed together -->
+                      <div class="row" style="margin-bottom:2em;">
+                         <div class="col-sm-6 text-center">
+                            <img class="img img-responsive img-thumbnail project-img-match" src="/assets/geo_of_conf/protest_sa.png" alt="Geography of Conflict Map">
+                         </div>
+                         <div class="col-sm-6 text-center">
+                            <img class="img img-responsive img-thumbnail project-img-match" src="/img/wordcloud1.png" alt="Gamer Slang Wordcloud">
+                         </div>
+                      </div>
+         </div>
+      </div>
+
+   </div>
+
+   <!-- Back-to-top button -->
+   <a role="button" id="topper" data-toggle="tooltip" data-placement="top" title="Top" class="btn scroll-link" href="#top"><i class="fa fa-fw fa-2x fa-caret-up" aria-hidden="true"></i></a>
+
+   <!-- footer include -->
+   <div w3-include-html="footer.html"></div>
+
+   <!-- jQuery -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+   <!-- Bootstrap JS Library -->
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+   <!-- html file include script | used for navbar and footer -->
+   <script src="js/w3data.js"></script>
+   <script>
+      w3IncludeHTML()
+   </script>
+
+   <!-- Local scripts -->
+   <script src="js/main.js"></script>
+
+</body>
+
+</html>
