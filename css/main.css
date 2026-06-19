@@ -14,7 +14,17 @@ p {
 .publication-item {
   font-size: 1.8rem;
   font-family: inherit;
+  margin-bottom: 2em;
 }
+
+.publication-meta {
+  margin-bottom: 0.4rem;
+}
+
+.publication-meta:last-of-type {
+  margin-bottom: 0.4rem;
+}
+
 .abstract-toggle-btn {
   font-size: 1.6rem;
   padding: 0 0 0.5rem 0;
@@ -36,6 +46,26 @@ p {
   box-shadow: none;
 }
 
+#main-container a.docs-link,
+#main-container a.docs-link:visited {
+  color: black !important;
+  font-size: 1.5rem;
+  font-family: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+#main-container a.docs-link:hover,
+#main-container a.docs-link:focus {
+  color: black !important;
+  text-decoration: underline;
+  background: none;
+  outline: none;
+  box-shadow: none;
+}
+
 .abstract-content {
   font-size: 1.6rem;
   background: #f8f9fa;
@@ -44,6 +74,7 @@ p {
   border-radius: 3px;
   font-family: inherit;
   text-align: justify;
+  margin-bottom: 0;
 }
 
 #badge-more {
@@ -175,6 +206,31 @@ blockquote footer {
   margin-left: 2rem;
   text-indent: -2.5rem;
   ;
+}
+
+/* Journal name styling --------------------------------------------------------- */
+/*
+  If you'd like a Google Font, add a link in your HTML <head>, e.g.
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
+  and change --journal-font-family accordingly.
+*/
+:root {
+  --journal-font-family: Georgia, 'Times New Roman', serif;
+  --journal-color: #000000;
+  --journal-letter-spacing: 0.06em;
+  --journal-font-size: 1.8rem;
+}
+
+.journal-name {
+  font-family: var(--journal-font-family);
+  font-variant: small-caps;
+  font-weight: 500;
+  color: var(--journal-color);
+  letter-spacing: var(--journal-letter-spacing);
+  text-transform: none;
+  font-size: var(--journal-font-size);
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 /* Links */

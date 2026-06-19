@@ -19,3 +19,6 @@
   Web Fonts: Font Awesome 4
 
   IDE/Env: Atom.io
+
+/* Editted by */
+Javier Gonzalez
