@@ -1,6 +1,7 @@
 p {
   text-align: justify;
 }
+
 /* Make project images in data.html match in size */
 .project-img-match {
   max-width: 90%;
@@ -9,6 +10,7 @@ p {
   margin: 0 auto 1em auto;
   display: block;
 }
+
 /* Global page and element settings ----------------------------------------------------- */
 
 .publication-item {
@@ -36,9 +38,11 @@ p {
   box-shadow: none;
   outline: none;
   margin: 0;
-    transition: none;
+  transition: none;
 }
-.abstract-toggle-btn:hover, .abstract-toggle-btn:focus {
+
+.abstract-toggle-btn:hover,
+.abstract-toggle-btn:focus {
   color: #0F52BA;
   text-decoration: underline;
   background: none;
@@ -78,7 +82,7 @@ p {
 }
 
 #badge-more {
-  background-color:#0F52BA;
+  background-color: #0F52BA;
   padding: 10px 10px;
   color: white;
   cursor: pointer;
@@ -90,7 +94,10 @@ p {
 } */
 
 /* Typography */
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-family: 'Lato', sans-serif;
   color: black;
   font-weight: 500;
@@ -100,7 +107,8 @@ h1 {
   margin-bottom: 4rem;
 }
 
-h2, h3 {
+h2,
+h3 {
   margin: 0 0 2rem !important;
   /*color: slategray;*/
   color: black;
@@ -124,7 +132,7 @@ h4 {
   font-size: 1.8rem;
   font-style: italic;
   font-weight: 500;
-  color:#0F52BA !important;
+  color: #0F52BA !important;
 }
 
 #projects .panel-heading h5 {
@@ -135,24 +143,32 @@ h4 {
 
 nav {
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
-p, ul, li, blockquote, a, footer, dl, dt, dd {
+p,
+ul,
+li,
+blockquote,
+a,
+footer,
+dl,
+dt,
+dd {
   font-size: 1.8rem;
   /* font-weight: 400; */
 }
 
 ul {
-  line-height:180%
+  line-height: 180%
 }
 
-table tr td{
+table tr td {
   font-size: 1.8rem;
   /* font-weight: 400; */
   border-style: hidden;
   border-collapse: collapse;
-  border-spacing:0;
+  border-spacing: 0;
 }
 
 .center {
@@ -235,7 +251,7 @@ blockquote footer {
 
 /* Links */
 #main-container a {
-  color:#0F52BA;
+  color: #0F52BA;
   font-weight: 0;
 }
 
@@ -268,7 +284,7 @@ nav {
   padding-bottom: 2rem;
 }
 
-.nav a{
+.nav a {
   font-size: 1.9rem;
 }
 
@@ -329,7 +345,7 @@ nav {
 }
 
 .navbar .dropdown-menu {
-  background: black; 
+  background: black;
   margin-right: -1px;
 }
 
@@ -381,7 +397,7 @@ nav {
 
 #link-to-docs,
 #link-to-teaching-philosophy {
-  color:#0F52BA;
+  color: #0F52BA;
 }
 
 #link-to-docs:active,
@@ -390,7 +406,7 @@ nav {
   border-color: silver !important;
 }
 
-#link-to-docs:hover{
+#link-to-docs:hover {
   border-color: #0F52BA !important;
   padding-bottom: 6px !important;
   background: transparent !important;
@@ -413,7 +429,7 @@ footer {
 }
 
 .social-icons li a {
-  color:#0F52BA;
+  color: #0F52BA;
 }
 
 .social-icons li a:hover {
@@ -448,7 +464,7 @@ footer {
   border-top: none;
 }
 
-#projects .panel-footer p{
+#projects .panel-footer p {
   font-size: 1.5rem;
 }
 
@@ -575,7 +591,7 @@ dd {
 
 /* iframe changes -----------------------------------------------------*/
 
-.iframe-parent{
+.iframe-parent {
   height: 50vh;
   flex-direction: row;
   display: flex;
@@ -583,7 +599,7 @@ dd {
 }
 
 /* Expand to the entire container */
-iframe{
+iframe {
   width: 100%;
   height: 100%;
 }
