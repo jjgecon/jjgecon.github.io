@@ -143,7 +143,7 @@ h4 {
 
 nav {
   font-family: 'Lato', sans-serif;
-  font-weight: 400;
+  font-weight: 400 !important;
 }
 
 p,
@@ -290,13 +290,26 @@ nav {
 
 .navbar-default .navbar-nav>li>a {
   color: black;
-  font-weight: 100;
+  font-weight: 300;
+}
+
+@media (min-width: 768px) {
+
+  .navbar-default .navbar-nav>li>a,
+  .navbar-default .navbar-nav>li>a:hover,
+  .navbar-default .navbar-nav>li>a:focus,
+  .navbar-default .navbar-nav>li>a:focus-within,
+  .navbar-inverse .navbar-nav>li>a,
+  .navbar-inverse .navbar-nav>li>a:hover,
+  .navbar-inverse .navbar-nav>li>a:focus,
+  .navbar-inverse .navbar-nav>li>a:focus-within {
+    font-weight: 400 !important;
+  }
 }
 
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus-within,
 .navbar-inverse .navbar-nav>li>a:focus {
-  font-weight: 150;
   color: #0F52BA !important;
 }
 
