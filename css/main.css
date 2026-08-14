@@ -286,11 +286,14 @@ nav {
 
 .nav a {
   font-size: 1.9rem;
+  font-weight: 400;
+  /* match a Montserrat weight actually loaded, avoids fallback-font swap on hover */
 }
 
 .navbar-default .navbar-nav>li>a {
   color: black;
-  font-weight: 300;
+  font-weight: 400;
+  /* match a Montserrat weight actually loaded, avoids fallback-font swap on hover */
 }
 
 @media (min-width: 768px) {
